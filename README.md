@@ -1,6 +1,6 @@
 # ADVENTOUR
 
-#### This MVP showcases a web app that is basically for travelling and adventure purposes. Our web application  links you up with beautiful gems you should visit while you are in Nairobi, where one can enjoy a good meal and ambience and eventually hotels where one can stay during their stay. (version 1.05.06.2023), 06/05/2023
+#### This MVP showcases a web app that is basically for travelling and adventure purposes. Our web application  links you up with beautiful gems you should visit while you are in Nairobi, where one can enjoy a good meal and ambience and eventually hotels where one can stay during their stay. 
 
 
 #### By **Tamunotonye Briggs, Edwin Aloo, William Ayim, Augustine Kariuki and Samillah Vihenda**
