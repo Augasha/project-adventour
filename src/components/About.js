@@ -2,6 +2,7 @@ import React from 'react'
 import heroImage from '../Images/hero.jpg'
 import './About.css'
 
+
 const About = () => {
   return (
     <section id='hero'>
