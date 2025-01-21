@@ -7,6 +7,8 @@ function AccommodationsItem({ name, location, image }) {
       <h3>{name}</h3>
       <small>Location: {location}</small>
     </div>
+
+  
   );
 }
 
