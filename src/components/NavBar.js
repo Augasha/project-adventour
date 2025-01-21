@@ -3,6 +3,8 @@ import { NavLink } from "react-router-dom";
 import "./NavBar.css";
 import Adventour from "../Images/Adventour.jpg";
 
+
+
 const NavBar = ({ isLoggedIn, handleLogout }) => {
 
   const onLogout = () => {
